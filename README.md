@@ -11,7 +11,7 @@ This API supports many functions, features for building a fully functional user 
 
 # Features 
 * Gives user an option to submit their task.
-* Editing task option is provided.
+* Edit task option is provided.
 * Deletion of Task is also possible.
 
 # end points for todos:

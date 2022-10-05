@@ -1,11 +1,13 @@
 # TO - DO APPLICATION
 
 
+The following to-do application is developed based on the PERN stack.
+
 PERN stack includes, Postgresql, Express, React, and NodeJS.
 
 This application aims to demonstrate the baisc CRUD operations. Also, explains how PERN stack components interact.
 
-This API supports many functions, features for building a fully functional user To-Do application with following features.
+This API supports many functions, features for building a fully functional user To-Do application with following features:
 
 # Features 
 * Gives user an option to submit their task.
